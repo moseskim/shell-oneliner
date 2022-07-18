@@ -3,196 +3,196 @@
   <row-0>
     <area_name>종로구</area_name>
     <station_name>종각</station_name>
-    <line_no>01</line_no>
+    <line_no>01호선</line_no>
   </row-0>
   <row-1>
     <area_name>종로구</area_name>
     <station_name>종로3가</station_name>
-    <line_no>01</line_no>
+    <line_no>01호선</line_no>
   </row-1>
   <row-2>
     <area_name>종로구</area_name>
     <station_name>종로3가</station_name>
-    <line_no>03</line_no>
+    <line_no>03호선</line_no>
   </row-2>
   <row-3>
     <area_name>종로구</area_name>
     <station_name>종로5가</station_name>
-    <line_no>01</line_no>
+    <line_no>01호선</line_no>
   </row-3>
   <row-4>
     <area_name>종로구</area_name>
     <station_name>동대문</station_name>
-    <line_no>01</line_no>
+    <line_no>01호선</line_no>
   </row-4>
   <row-5>
     <area_name>종로구</area_name>
     <station_name>동대문</station_name>
-    <line_no>04</line_no>
+    <line_no>04호선</line_no>
   </row-5>
   <row-6>
     <area_name>종로구</area_name>
     <station_name>동묘앞</station_name>
-    <line_no>01</line_no>
+    <line_no>01호선</line_no>
   </row-6>
   <row-7>
     <area_name>종로구</area_name>
     <station_name>경복궁</station_name>
-    <line_no>03</line_no>
+    <line_no>03호선</line_no>
   </row-7>
   <row-8>
     <area_name>종로구</area_name>
     <station_name>안국</station_name>
-    <line_no>03</line_no>
+    <line_no>03호선</line_no>
   </row-8>
   <row-9>
     <area_name>종로구</area_name>
     <station_name>회화</station_name>
-    <line_no>03</line_no>
+    <line_no>03호선</line_no>
   </row-9>
   <row-10>
     <area_name>중구</area_name>
     <station_name>서울</station_name>
-    <line_no>01</line_no>
+    <line_no>01호선</line_no>
   </row-10>
   <row-11>
     <area_name>중구</area_name>
     <station_name>시청</station_name>
-    <line_no>01</line_no>
+    <line_no>01호선</line_no>
   </row-11>
   <row-12>
     <area_name>중구</area_name>
     <station_name>시청</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-12>
   <row-13>
     <area_name>중구</area_name>
     <station_name>을지로입구</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-13>
   <row-14>
     <area_name>중구</area_name>
     <station_name>을지로3가</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-14>
   <row-15>
     <area_name>중구</area_name>
     <station_name>을지로3가</station_name>
-    <line_no>03</line_no>
+    <line_no>03호선</line_no>
   </row-15>
   <row-16>
     <area_name>중구</area_name>
     <station_name>을지로4가</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-16>
   <row-17>
     <area_name>중구</area_name>
     <station_name>동대문역사문화공원</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-17>
   <row-18>
     <area_name>중구</area_name>
     <station_name>동대문역사문화공원</station_name>
-    <line_no>04</line_no>
+    <line_no>04호선</line_no>
   </row-18>
   <row-19>
     <area_name>중구</area_name>
     <station_name>신당</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-19>
   <row-20>
     <area_name>중구</area_name>
     <station_name>동대입구</station_name>
-    <line_no>03</line_no>
+    <line_no>03호선</line_no>
   </row-20>
   <row-21>
     <area_name>중구</area_name>
     <station_name>약수</station_name>
-    <line_no>03</line_no>
+    <line_no>03호선</line_no>
   </row-21>
   <row-22>
     <area_name>중구</area_name>
     <station_name>충무로</station_name>
-    <line_no>04</line_no>
+    <line_no>04호선</line_no>
   </row-22>
   <row-23>
     <area_name>중구</area_name>
     <station_name>명동</station_name>
-    <line_no>04</line_no>
+    <line_no>04호선</line_no>
   </row-23>
   <row-24>
     <area_name>중구</area_name>
     <station_name>회현</station_name>
-    <line_no>04</line_no>
+    <line_no>04호선</line_no>
   </row-24>
   <row-25>
     <area_name>용산구</area_name>
     <station_name>서울</station_name>
-    <line_no>04</line_no>
+    <line_no>04호선</line_no>
   </row-25>
   <row-26>
     <area_name>용산구</area_name>
     <station_name>숙대입구</station_name>
-    <line_no>04</line_no>
+    <line_no>04호선</line_no>
   </row-26>
   <row-27>
     <area_name>용산구</area_name>
     <station_name>삼각지</station_name>
-    <line_no>04</line_no>
+    <line_no>04호선</line_no>
   </row-27>
   <row-28>
     <area_name>용산구</area_name>
     <station_name>신용산</station_name>
-    <line_no>04</line_no>
+    <line_no>04호선</line_no>
   </row-28>
   <row-29>
     <area_name>용산구</area_name>
     <station_name>이촌</station_name>
-    <line_no>04</line_no>
+    <line_no>04호선</line_no>
   </row-29>
   <row-30>
     <area_name>성동구</area_name>
     <station_name>상왕십리</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-30>
   <row-31>
     <area_name>성동구</area_name>
     <station_name>왕십리</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-31>
   <row-32>
     <area_name>성동구</area_name>
     <station_name>한양대</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-32>
   <row-33>
     <area_name>성동구</area_name>
     <station_name>뚝섬</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-33>
   <row-34>
     <area_name>성동구</area_name>
     <station_name>성수</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-34>
   <row-35>
     <area_name>성동구</area_name>
     <station_name>신답</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-35>
   <row-36>
     <area_name>성동구</area_name>
     <station_name>용답</station_name>
-    <line_no>02</line_no>
+    <line_no>02호선</line_no>
   </row-36>
   <row-37>
     <area_name>성동구</area_name>
     <station_name>금호</station_name>
-    <line_no>03</line_no>
+    <line_no>03호선</line_no>
   </row-37>
   <row-38>
     <area_name>성동구</area_name>
     <station_name>옥수</station_name>
-    <line_no>03</line_no>
+    <line_no>03호선</line_no>
   </row-38>
 </root>
