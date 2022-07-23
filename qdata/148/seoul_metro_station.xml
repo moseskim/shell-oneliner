@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<root>
+<stations>
   <station>
     <station_code>245</station_code>
     <station_name>신답</station_name>
@@ -7,16 +7,16 @@
     <external_cd>211-2</external_cd>
   </station>
   <station>
-    <station_code>></station_code>
+    <station_code></station_code>
     <station_name>길음</station_name>
     <line_no>04호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
-    <station_code>></station_code>
+    <station_code></station_code>
     <station_name>숙대입구</station_name>
     <line_no>04호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>428</station_code>
@@ -102,12 +102,12 @@
     <line_no>경의선</line_no>
     <external_cd>K110</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1010</station_code>
     <station_name>한남</station_name>
     <line_no>경의선</line_no>
     <external_cd>K113</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1011</station_code>
     <station_name>옥수</station_name>
@@ -162,12 +162,12 @@
     <line_no>01호선</line_no>
     <external_cd>119</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1020</station_code>
     <station_name>월계</station_name>
     <line_no>01호선</line_no>
     <external_cd>118</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1021</station_code>
     <station_name>녹천</station_name>
@@ -222,12 +222,12 @@
     <line_no>수인분당선</line_no>
     <external_cd>K221</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>412</station_code>
     <station_name>창동</station_name>
     <line_no>04호선</line_no>
     <external_cd>412</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1031</station_code>
     <station_name>복정</station_name>
@@ -282,12 +282,12 @@
     <line_no>경의선</line_no>
     <external_cd>K126</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1210</station_code>
     <station_name>팔당</station_name>
     <line_no>경의선</line_no>
     <external_cd>K128</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1211</station_code>
     <station_name>운길산</station_name>
@@ -342,12 +342,12 @@
     <line_no>경의선</line_no>
     <external_cd>K1></external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1220</station_code>
     <station_name>지평</station_name>
     <line_no>경의선</line_no>
     <external_cd>K138</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1251</station_code>
     <station_name>서울역</station_name>
@@ -402,12 +402,12 @@
     <line_no>경의선</line_no>
     <external_cd>K319</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1>0</station_code>
     <station_name>행신</station_name>
     <line_no>경의선</line_no>
     <external_cd>K320</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1>2</station_code>
     <station_name>곡산</station_name>
@@ -420,66 +420,66 @@
     <line_no>경의선</line_no>
     <external_cd>K326</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1>6</station_code>
     <station_name>탄현</station_name>
     <line_no>경의선</line_no>
     <external_cd>K></external_cd>
-  </station>>
-  <station>>
-    <station_code>1>></station_code>
+  </station>
+  <station>
+    <station_code>1></station_code>
     <station_name>야당</station_name>
     <line_no>경의선</line_no>
     <external_cd>K328</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1>8</station_code>
     <station_name>운정</station_name>
     <line_no>경의선</line_no>
     <external_cd>K329</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1>9</station_code>
     <station_name>금릉</station_name>
     <line_no>경의선</line_no>
     <external_cd>K330</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1280</station_code>
     <station_name>금촌</station_name>
     <line_no>경의선</line_no>
     <external_cd>K331</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1282</station_code>
     <station_name>월롱</station_name>
     <line_no>경의선</line_no>
     <external_cd>K333</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1283</station_code>
     <station_name>파주</station_name>
     <line_no>경의선</line_no>
     <external_cd>K334</external_cd>
-  </station>>
-  <station>>>
+  </station>
+  <station>>
     <station_code>1284</station_code>
     <station_name>문산</station_name>
     <line_no>경의선</line_no>
     <external_cd>K335</external_cd>
-  </station>>>
-  <station>>
+  </station>>
+  <station>
     <station_code>1285</station_code>
     <station_name>임진강</station_name>
     <line_no>경의선</line_no>
     <external_cd>K336</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1305</station_code>
     <station_name>광운대</station_name>
     <line_no>경춘선</line_no>
     <external_cd>P116</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1306</station_code>
     <station_name>청량리</station_name>
@@ -522,12 +522,12 @@
     <line_no>경춘선</line_no>
     <external_cd>P119</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1309</station_code>
     <station_name>상봉</station_name>
     <line_no>경춘선</line_no>
     <external_cd>P120</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1310</station_code>
     <station_name>망우</station_name>
@@ -582,12 +582,12 @@
     <line_no>경춘선</line_no>
     <external_cd>P130</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1320</station_code>
     <station_name>대성리</station_name>
     <line_no>경춘선</line_no>
     <external_cd>P131</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1321</station_code>
     <station_name>청평</station_name>
@@ -642,12 +642,12 @@
     <line_no>01호선</line_no>
     <external_cd>P>1</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1404</station_code>
     <station_name>탕정</station_name>
     <line_no>01호선</line_no>
     <external_cd>P>3</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1405</station_code>
     <station_name>배방</station_name>
@@ -664,7 +664,7 @@
     <station_code>1408</station_code>
     <station_name>신창</station_name>
     <line_no>01호선</line_no>
-    <external_cd>P>></external_cd>
+    <external_cd>P></external_cd>
   </station>
   <station>
     <station_code>1450</station_code>
@@ -682,7 +682,7 @@
     <station_code>1452</station_code>
     <station_name>대공원</station_name>
     <line_no>04호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>1455</station_code>
@@ -702,12 +702,12 @@
     <line_no>04호선</line_no>
     <external_cd>443</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1502</station_code>
     <station_name>이매</station_name>
     <line_no>경강선</line_no>
     <external_cd>K411</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1503</station_code>
     <station_name>삼동</station_name>
@@ -733,7 +733,7 @@
     <external_cd>330</external_cd>
   </station>
   <station>
-    <station_code>></station_code>
+    <station_code></station_code>
     <station_name>신사</station_name>
     <line_no>03호선</line_no>
     <external_cd>3></external_cd>
@@ -762,192 +762,192 @@
     <line_no>경강선</line_no>
     <external_cd>K420</external_cd>
   </station>
-  <station>>
-    <station_code>>01</station_code>
+  <station>
+    <station_code>01</station_code>
     <station_name>구로</station_name>
     <line_no>01호선</line_no>
     <external_cd>141</external_cd>
-  </station>>
+  </station>
   <station>
-    <station_code>>02</station_code>
+    <station_code>02</station_code>
     <station_name>가산디지털단지</station_name>
     <line_no>01호선</line_no>
     <external_cd>P142</external_cd>
   </station>
   <station>
-    <station_code>>03</station_code>
+    <station_code>03</station_code>
     <station_name>금천구청</station_name>
     <line_no>01호선</line_no>
     <external_cd>P144</external_cd>
   </station>
   <station>
-    <station_code>>04</station_code>
+    <station_code>04</station_code>
     <station_name>석수</station_name>
     <line_no>01호선</line_no>
     <external_cd>P145</external_cd>
   </station>
   <station>
-    <station_code>>05</station_code>
+    <station_code>05</station_code>
     <station_name>관악</station_name>
     <line_no>01호선</line_no>
     <external_cd>P146</external_cd>
   </station>
   <station>
-    <station_code>>06</station_code>
+    <station_code>06</station_code>
     <station_name>안양</station_name>
     <line_no>01호선</line_no>
     <external_cd>P1></external_cd>
   </station>
   <station>
-    <station_code>>></station_code>
+    <station_code>></station_code>
     <station_name>명학</station_name>
     <line_no>01호선</line_no>
     <external_cd>P148</external_cd>
   </station>
   <station>
-    <station_code>>08</station_code>
+    <station_code>08</station_code>
     <station_name>금정</station_name>
     <line_no>01호선</line_no>
     <external_cd>P149</external_cd>
   </station>
   <station>
-    <station_code>>09</station_code>
+    <station_code>09</station_code>
     <station_name>군포</station_name>
     <line_no>01호선</line_no>
     <external_cd>P150</external_cd>
   </station>
   <station>
-    <station_code>>11</station_code>
+    <station_code>11</station_code>
     <station_name>성균관대</station_name>
     <line_no>01호선</line_no>
     <external_cd>P153</external_cd>
   </station>
-  <station>>
-    <station_code>>12</station_code>
+  <station>
+    <station_code>12</station_code>
     <station_name>화서</station_name>
     <line_no>01호선</line_no>
     <external_cd>P154</external_cd>
-  </station>>
+  </station>
   <station>
-    <station_code>>13</station_code>
+    <station_code>13</station_code>
     <station_name>수원</station_name>
     <line_no>01호선</line_no>
     <external_cd>P155</external_cd>
   </station>
   <station>
-    <station_code>>14</station_code>
+    <station_code>14</station_code>
     <station_name>독산</station_name>
     <line_no>01호선</line_no>
     <external_cd>P143</external_cd>
   </station>
   <station>
-    <station_code>>15</station_code>
+    <station_code>15</station_code>
     <station_name>세류</station_name>
     <line_no>01호선</line_no>
     <external_cd>P156</external_cd>
   </station>
   <station>
-    <station_code>>18</station_code>
+    <station_code>18</station_code>
     <station_name>오산대</station_name>
     <line_no>01호선</line_no>
     <external_cd>P159</external_cd>
   </station>
   <station>
-    <station_code>>19</station_code>
+    <station_code>19</station_code>
     <station_name>오산</station_name>
     <line_no>01호선</line_no>
     <external_cd>P160</external_cd>
   </station>
   <station>
-    <station_code>>20</station_code>
+    <station_code>20</station_code>
     <station_name>진위</station_name>
     <line_no>01호선</line_no>
     <external_cd>P161</external_cd>
   </station>
   <station>
-    <station_code>>21</station_code>
+    <station_code>21</station_code>
     <station_name>송탄</station_name>
     <line_no>01호선</line_no>
     <external_cd>P162</external_cd>
   </station>
   <station>
-    <station_code>>22</station_code>
+    <station_code>22</station_code>
     <station_name>서정리</station_name>
     <line_no>01호선</line_no>
     <external_cd>P163</external_cd>
   </station>
   <station>
-    <station_code>>24</station_code>
+    <station_code>24</station_code>
     <station_name>평택</station_name>
     <line_no>01호선</line_no>
     <external_cd>P165</external_cd>
   </station>
-  <station>>
-    <station_code>>25</station_code>
+  <station>
+    <station_code>25</station_code>
     <station_name>성환</station_name>
     <line_no>01호선</line_no>
     <external_cd>P166</external_cd>
-  </station>>
+  </station>
   <station>
-    <station_code>>26</station_code>
+    <station_code>26</station_code>
     <station_name>직산</station_name>
     <line_no>01호선</line_no>
     <external_cd>P></external_cd>
   </station>
   <station>
-    <station_code>>28</station_code>
+    <station_code>28</station_code>
     <station_name>천안</station_name>
     <line_no>01호선</line_no>
     <external_cd>P169</external_cd>
   </station>
   <station>
-    <station_code>>29</station_code>
+    <station_code>29</station_code>
     <station_name>당정</station_name>
     <line_no>01호선</line_no>
     <external_cd>P151</external_cd>
   </station>
   <station>
-    <station_code>>50</station_code>
+    <station_code>50</station_code>
     <station_name>광명</station_name>
     <line_no>01호선</line_no>
     <external_cd>P144-1</external_cd>
   </station>
   <station>
-    <station_code>>51</station_code>
+    <station_code>51</station_code>
     <station_name>산본</station_name>
     <line_no>04호선</line_no>
     <external_cd>444</external_cd>
   </station>
   <station>
-    <station_code>>52</station_code>
+    <station_code>52</station_code>
     <station_name>대야미</station_name>
     <line_no>04호선</line_no>
     <external_cd>446</external_cd>
   </station>
   <station>
-    <station_code>>53</station_code>
+    <station_code>53</station_code>
     <station_name>반월</station_name>
     <line_no>04호선</line_no>
     <external_cd>4></external_cd>
   </station>
   <station>
-    <station_code>>54</station_code>
+    <station_code>54</station_code>
     <station_name>상록수</station_name>
     <line_no>04호선</line_no>
     <external_cd>448</external_cd>
   </station>
   <station>
-    <station_code>>55</station_code>
+    <station_code>55</station_code>
     <station_name>한대앞</station_name>
     <line_no>04호선</line_no>
     <external_cd>449</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>216</station_code>
     <station_name>잠실</station_name>
     <line_no>02호선</line_no>
     <external_cd>216</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>249</station_code>
     <station_name>신정네거리</station_name>
@@ -991,95 +991,95 @@
     <external_cd>421</external_cd>
   </station>
   <station>
-    <station_code>>56</station_code>
+    <station_code>56</station_code>
     <station_name>중앙</station_name>
     <line_no>04호선</line_no>
     <external_cd>450</external_cd>
   </station>
   <station>
-    <station_code>>></station_code>
+    <station_code>></station_code>
     <station_name>고잔</station_name>
     <line_no>04호선</line_no>
     <external_cd>451</external_cd>
   </station>
-  <station>>
-    <station_code>>58</station_code>
+  <station>
+    <station_code>58</station_code>
     <station_name>초지</station_name>
     <line_no>04호선</line_no>
     <external_cd>452</external_cd>
-  </station>>
+  </station>
   <station>
-    <station_code>>59</station_code>
+    <station_code>59</station_code>
     <station_name>안산</station_name>
     <line_no>04호선</line_no>
     <external_cd>453</external_cd>
   </station>
   <station>
-    <station_code>>61</station_code>
+    <station_code>61</station_code>
     <station_name>정왕</station_name>
     <line_no>04호선</line_no>
     <external_cd>455</external_cd>
   </station>
-  <station>>
-    <station_code>>62</station_code>
+  <station>
+    <station_code>62</station_code>
     <station_name>오이도</station_name>
     <line_no>04호선</line_no>
     <external_cd>456</external_cd>
-  </station>>
-  <station>>
-    <station_code>>63</station_code>
+  </station>
+  <station>
+    <station_code>63</station_code>
     <station_name>수리산</station_name>
     <line_no>04호선</line_no>
     <external_cd>445</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1800</station_code>
     <station_name>오이도</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K258</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1802</station_code>
     <station_name>오류동</station_name>
     <line_no>01호선</line_no>
     <external_cd>144</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1803</station_code>
     <station_name>역곡</station_name>
     <line_no>01호선</line_no>
     <external_cd>146</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1804</station_code>
     <station_name>부천</station_name>
     <line_no>01호선</line_no>
     <external_cd>148</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1805</station_code>
     <station_name>송내</station_name>
     <line_no>01호선</line_no>
     <external_cd>150</external_cd>
-  </station>>
-  <station>>>
+  </station>
+  <station>>
     <station_code>1806</station_code>
     <station_name>부평</station_name>
     <line_no>01호선</line_no>
     <external_cd>152</external_cd>
-  </station>>>
-  <station>>
+  </station>>
+  <station>
     <station_code>1808</station_code>
     <station_name>동암</station_name>
     <line_no>01호선</line_no>
     <external_cd>154</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1809</station_code>
     <station_name>주안</station_name>
     <line_no>01호선</line_no>
     <external_cd>156</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1810</station_code>
     <station_name>제물포</station_name>
@@ -1122,12 +1122,12 @@
     <line_no>01호선</line_no>
     <external_cd>155</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1></station_code>
     <station_name>도원</station_name>
     <line_no>01호선</line_no>
     <external_cd>159</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>233</station_code>
     <station_name>대림</station_name>
@@ -1182,12 +1182,12 @@
     <line_no>수인분당선</line_no>
     <external_cd>K254</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1834</station_code>
     <station_name>안산</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K255</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1835</station_code>
     <station_name>신길온천</station_name>
@@ -1242,12 +1242,12 @@
     <line_no>수인분당선</line_no>
     <external_cd>K225</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1854</station_code>
     <station_name>야탑</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K226</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1855</station_code>
     <station_name>서현</station_name>
@@ -1302,12 +1302,12 @@
     <line_no>수인분당선</line_no>
     <external_cd>K235</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1864</station_code>
     <station_name>신갈</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K236</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1866</station_code>
     <station_name>상갈</station_name>
@@ -1321,37 +1321,37 @@
     <external_cd>K240</external_cd>
   </station>
   <station>
-    <station_code>>0</station_code>
+    <station_code>0</station_code>
     <station_name>매탄권선</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K242</external_cd>
   </station>
   <station>
-    <station_code>>1</station_code>
+    <station_code>1</station_code>
     <station_name>수원시청</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K243</external_cd>
   </station>
   <station>
-    <station_code>>3</station_code>
+    <station_code>3</station_code>
     <station_name>고색</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K246</external_cd>
   </station>
   <station>
-    <station_code>>6</station_code>
+    <station_code>6</station_code>
     <station_name>야목</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K249</external_cd>
   </station>
   <station>
-    <station_code>>></station_code>
+    <station_code>></station_code>
     <station_name>사리</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K250</external_cd>
   </station>
   <station>
-    <station_code>>9</station_code>
+    <station_code>9</station_code>
     <station_name>월곶</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K260</external_cd>
@@ -1362,12 +1362,12 @@
     <line_no>수인분당선</line_no>
     <external_cd>K261</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1882</station_code>
     <station_name>호구포</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K263</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>338</station_code>
     <station_name>일원</station_name>
@@ -1381,7 +1381,7 @@
     <external_cd>416</external_cd>
   </station>
   <station>
-    <station_code>>8</station_code>
+    <station_code>8</station_code>
     <station_name>달월</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K259</external_cd>
@@ -1422,12 +1422,12 @@
     <line_no>수인분당선</line_no>
     <external_cd>K>1</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1901</station_code>
     <station_name>방학</station_name>
     <line_no>01호선</line_no>
     <external_cd>115</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1902</station_code>
     <station_name>도봉</station_name>
@@ -1462,7 +1462,7 @@
     <station_code>1909</station_code>
     <station_name>양주</station_name>
     <line_no>01호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>1910</station_code>
@@ -1482,12 +1482,12 @@
     <line_no>01호선</line_no>
     <external_cd>104</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1913</station_code>
     <station_name>동두천중앙</station_name>
     <line_no>01호선</line_no>
     <external_cd>103</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1915</station_code>
     <station_name>동두천</station_name>
@@ -1504,7 +1504,7 @@
     <station_code>1948</station_code>
     <station_name>원흥</station_name>
     <line_no>03호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>1950</station_code>
@@ -1542,12 +1542,12 @@
     <line_no>03호선</line_no>
     <external_cd>312</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1956</station_code>
     <station_name>정발산</station_name>
     <line_no>03호선</line_no>
     <external_cd>311</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1></station_code>
     <station_name>주엽</station_name>
@@ -1602,12 +1602,12 @@
     <line_no>03호선</line_no>
     <external_cd>344</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>341</station_code>
     <station_name>경찰병원</station_name>
     <line_no>03호선</line_no>
     <external_cd>351</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>2515</station_code>
     <station_name>마곡</station_name>
@@ -1620,71 +1620,71 @@
     <line_no>05호선</line_no>
     <external_cd>515</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>2></station_code>
     <station_name>우장산</station_name>
     <line_no>05호선</line_no>
     <external_cd>516</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>2518</station_code>
     <station_name>화곡</station_name>
     <line_no>05호선</line_no>
-    <external_cd>></external_cd>
-  </station>>
-  <station>>
+    <external_cd></external_cd>
+  </station>
+  <station>
     <station_code>2519</station_code>
     <station_name>까치산</station_name>
     <line_no>05호선</line_no>
     <external_cd>518</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>2520</station_code>
     <station_name>신정</station_name>
     <line_no>05호선</line_no>
     <external_cd>519</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>2521</station_code>
     <station_name>목동</station_name>
     <line_no>05호선</line_no>
     <external_cd>520</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>2522</station_code>
     <station_name>오목교</station_name>
     <line_no>05호선</line_no>
     <external_cd>521</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>2523</station_code>
     <station_name>양평</station_name>
     <line_no>05호선</line_no>
     <external_cd>522</external_cd>
-  </station>>
-  <station>>>
+  </station>
+  <station>>
     <station_code>2524</station_code>
     <station_name>영등포구청</station_name>
     <line_no>05호선</line_no>
     <external_cd>523</external_cd>
-  </station>>>
-  <station>>
+  </station>>
+  <station>
     <station_code>2525</station_code>
     <station_name>영등포시장</station_name>
     <line_no>05호선</line_no>
     <external_cd>524</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>2526</station_code>
     <station_name>신길</station_name>
     <line_no>05호선</line_no>
     <external_cd>525</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>2528</station_code>
     <station_name>여의나루</station_name>
     <line_no>05호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>2529</station_code>
@@ -1722,12 +1722,12 @@
     <line_no>05호선</line_no>
     <external_cd>533</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>2535</station_code>
     <station_name>종로3가</station_name>
     <line_no>05호선</line_no>
     <external_cd>534</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>2536</station_code>
     <station_name>을지로4가</station_name>
@@ -1744,7 +1744,7 @@
     <station_code>2538</station_code>
     <station_name>청구</station_name>
     <line_no>05호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>2539</station_code>
@@ -1765,16 +1765,16 @@
     <external_cd>540</external_cd>
   </station>
   <station>
-    <station_code>></station_code>
+    <station_code></station_code>
     <station_name>잠실새내</station_name>
     <line_no>02호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
-    <station_code>></station_code>
+    <station_code></station_code>
     <station_name>경복궁</station_name>
     <line_no>03호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>324</station_code>
@@ -1782,12 +1782,12 @@
     <line_no>03호선</line_no>
     <external_cd>334</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>330</station_code>
     <station_name>교대</station_name>
     <line_no>03호선</line_no>
     <external_cd>340</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>332</station_code>
     <station_name>양재</station_name>
@@ -1840,14 +1840,14 @@
     <station_code>2548</station_code>
     <station_name>천호</station_name>
     <line_no>05호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>2549</station_code>
     <station_name>강동</station_name>
     <line_no>05호선</line_no>
     <external_cd>548</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>2550</station_code>
     <station_name>길동</station_name>
@@ -1902,12 +1902,12 @@
     <line_no>05호선</line_no>
     <external_cd>P553</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>2560</station_code>
     <station_name>거여</station_name>
     <line_no>05호선</line_no>
     <external_cd>P554</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>2562</station_code>
     <station_name>강일</station_name>
@@ -1962,12 +1962,12 @@
     <line_no>03호선</line_no>
     <external_cd>341</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>336</station_code>
     <station_name>학여울</station_name>
     <line_no>03호선</line_no>
     <external_cd>346</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>2613</station_code>
     <station_name>불광</station_name>
@@ -2002,7 +2002,7 @@
     <station_code>2618</station_code>
     <station_name>증산</station_name>
     <line_no>06호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>2619</station_code>
@@ -2022,12 +2022,12 @@
     <line_no>06호선</line_no>
     <external_cd>620</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>2622</station_code>
     <station_name>망원</station_name>
     <line_no>06호선</line_no>
     <external_cd>621</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>2623</station_code>
     <station_name>합정</station_name>
@@ -2062,7 +2062,7 @@
     <station_code>2628</station_code>
     <station_name>효창공원앞</station_name>
     <line_no>06호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>2629</station_code>
@@ -2082,12 +2082,12 @@
     <line_no>06호선</line_no>
     <external_cd>630</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>2632</station_code>
     <station_name>한강진</station_name>
     <line_no>06호선</line_no>
     <external_cd>631</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>2633</station_code>
     <station_name>버티고개</station_name>
@@ -2122,7 +2122,7 @@
     <station_code>2638</station_code>
     <station_name>창신</station_name>
     <line_no>06호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>2639</station_code>
@@ -2142,12 +2142,12 @@
     <line_no>03호선</line_no>
     <external_cd>328</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>2640</station_code>
     <station_name>안암</station_name>
     <line_no>06호선</line_no>
     <external_cd>639</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>2641</station_code>
     <station_name>고려대</station_name>
@@ -2194,7 +2194,7 @@
     <station_code>2648</station_code>
     <station_name>봉화산</station_name>
     <line_no>06호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>2649</station_code>
@@ -2202,137 +2202,137 @@
     <line_no>06호선</line_no>
     <external_cd>648</external_cd>
   </station>
-  <station>>
-    <station_code>>11</station_code>
+  <station>
+    <station_code>11</station_code>
     <station_name>장암</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>09</external_cd>
-  </station>>
+    <line_no>호선</line_no>
+    <external_cd>09</external_cd>
+  </station>
   <station>
-    <station_code>>12</station_code>
+    <station_code>12</station_code>
     <station_name>도봉산</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>10</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>10</external_cd>
   </station>
   <station>
-    <station_code>>14</station_code>
+    <station_code>14</station_code>
     <station_name>마들</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>12</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>12</external_cd>
   </station>
-  <station>>
-    <station_code>>15</station_code>
+  <station>
+    <station_code>15</station_code>
     <station_name>노원</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>13</external_cd>
-  </station>>
-  <station>>
-    <station_code>>16</station_code>
+    <line_no>호선</line_no>
+    <external_cd>13</external_cd>
+  </station>
+  <station>
+    <station_code>16</station_code>
     <station_name>중계</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>14</external_cd>
-  </station>>
-  <station>>
-    <station_code>>></station_code>
+    <line_no>호선</line_no>
+    <external_cd>14</external_cd>
+  </station>
+  <station>
+    <station_code>></station_code>
     <station_name>하계</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>15</external_cd>
-  </station>>
-  <station>>
-    <station_code>>18</station_code>
+    <line_no>호선</line_no>
+    <external_cd>15</external_cd>
+  </station>
+  <station>
+    <station_code>18</station_code>
     <station_name>공릉</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>16</external_cd>
-  </station>>
-  <station>>
-    <station_code>>19</station_code>
+    <line_no>호선</line_no>
+    <external_cd>16</external_cd>
+  </station>
+  <station>
+    <station_code>19</station_code>
     <station_name>태릉입구</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>></external_cd>
-  </station>>
-  <station>>
-    <station_code>>20</station_code>
+    <line_no>호선</line_no>
+    <external_cd>></external_cd>
+  </station>
+  <station>
+    <station_code>20</station_code>
     <station_name>먹골</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>18</external_cd>
-  </station>>
-  <station>>
-    <station_code>>21</station_code>
+    <line_no>호선</line_no>
+    <external_cd>18</external_cd>
+  </station>
+  <station>
+    <station_code>21</station_code>
     <station_name>중화</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>19</external_cd>
-  </station>>
-  <station>>>
-    <station_code>>22</station_code>
+    <line_no>호선</line_no>
+    <external_cd>19</external_cd>
+  </station>
+  <station>>
+    <station_code>22</station_code>
     <station_name>상봉</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>20</external_cd>
-  </station>>>
-  <station>>
-    <station_code>>23</station_code>
+    <line_no>호선</line_no>
+    <external_cd>20</external_cd>
+  </station>>
+  <station>
+    <station_code>23</station_code>
     <station_name>면목</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>21</external_cd>
-  </station>>
-  <station>>
-    <station_code>>24</station_code>
+    <line_no>호선</line_no>
+    <external_cd>21</external_cd>
+  </station>
+  <station>
+    <station_code>24</station_code>
     <station_name>사가정</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>22</external_cd>
-  </station>>
+    <line_no>호선</line_no>
+    <external_cd>22</external_cd>
+  </station>
   <station>
-    <station_code>>25</station_code>
+    <station_code>25</station_code>
     <station_name>용마산</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>23</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>23</external_cd>
   </station>
   <station>
-    <station_code>>26</station_code>
+    <station_code>26</station_code>
     <station_name>중곡</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>24</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>24</external_cd>
   </station>
   <station>
-    <station_code>>></station_code>
+    <station_code>></station_code>
     <station_name>군자</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>25</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>25</external_cd>
   </station>
   <station>
-    <station_code>>28</station_code>
+    <station_code>28</station_code>
     <station_name>어린이대공원</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>26</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>26</external_cd>
   </station>
   <station>
-    <station_code>>29</station_code>
+    <station_code>29</station_code>
     <station_name>건대입구</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>></external_cd>
+    <line_no>호선</line_no>
+    <external_cd>></external_cd>
   </station>
   <station>
-    <station_code>>30</station_code>
+    <station_code>30</station_code>
     <station_name>뚝섬유원지</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>28</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>28</external_cd>
   </station>
   <station>
-    <station_code>>31</station_code>
+    <station_code>31</station_code>
     <station_name>청담</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>29</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>29</external_cd>
   </station>
-  <station>>
-    <station_code>>32</station_code>
-    <station_name>강남구청</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>30</external_cd>
-  </station>>
   <station>
-    <station_code>>33</station_code>
+    <station_code>32</station_code>
+    <station_name>강남구청</station_name>
+    <line_no>호선</line_no>
+    <external_cd>30</external_cd>
+  </station>
+  <station>
+    <station_code>33</station_code>
     <station_name>학동</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>31</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>31</external_cd>
   </station>
   <station>
     <station_code>406</station_code>
@@ -2341,118 +2341,118 @@
     <external_cd>406</external_cd>
   </station>
   <station>
-    <station_code>>34</station_code>
+    <station_code>34</station_code>
     <station_name>논현</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>32</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>32</external_cd>
   </station>
   <station>
-    <station_code>>35</station_code>
+    <station_code>35</station_code>
     <station_name>반포</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>33</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>33</external_cd>
   </station>
   <station>
-    <station_code>>36</station_code>
+    <station_code>36</station_code>
     <station_name>고속터미널</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>34</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>34</external_cd>
   </station>
   <station>
-    <station_code>>></station_code>
+    <station_code>></station_code>
     <station_name>내방</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>35</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>35</external_cd>
   </station>
   <station>
-    <station_code>>38</station_code>
+    <station_code>38</station_code>
     <station_name>이수</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>36</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>36</external_cd>
   </station>
   <station>
-    <station_code>>39</station_code>
+    <station_code>39</station_code>
     <station_name>남성</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>></external_cd>
+    <line_no>호선</line_no>
+    <external_cd>></external_cd>
   </station>
   <station>
-    <station_code>>40</station_code>
+    <station_code>40</station_code>
     <station_name>숭실대입구</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>38</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>38</external_cd>
   </station>
-  <station>>
-    <station_code>>41</station_code>
+  <station>
+    <station_code>41</station_code>
     <station_name>상도</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>39</external_cd>
-  </station>>
+    <line_no>호선</line_no>
+    <external_cd>39</external_cd>
+  </station>
   <station>
-    <station_code>>42</station_code>
+    <station_code>42</station_code>
     <station_name>장승배기</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>40</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>40</external_cd>
   </station>
   <station>
-    <station_code>>43</station_code>
+    <station_code>43</station_code>
     <station_name>신대방삼거리</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>41</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>41</external_cd>
   </station>
   <station>
-    <station_code>>44</station_code>
+    <station_code>44</station_code>
     <station_name>보라매</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>42</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>42</external_cd>
   </station>
   <station>
-    <station_code>>45</station_code>
+    <station_code>45</station_code>
     <station_name>신풍</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>43</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>43</external_cd>
   </station>
   <station>
-    <station_code>>46</station_code>
+    <station_code>46</station_code>
     <station_name>대림</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>44</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>44</external_cd>
   </station>
   <station>
-    <station_code>>></station_code>
+    <station_code>></station_code>
     <station_name>남구로</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>45</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>45</external_cd>
   </station>
   <station>
-    <station_code>>48</station_code>
+    <station_code>48</station_code>
     <station_name>가산디지털단지</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>46</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>46</external_cd>
   </station>
   <station>
-    <station_code>>49</station_code>
+    <station_code>49</station_code>
     <station_name>철산</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>></external_cd>
+    <line_no>호선</line_no>
+    <external_cd>></external_cd>
   </station>
   <station>
-    <station_code>>50</station_code>
+    <station_code>50</station_code>
     <station_name>광명사거리</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>48</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>48</external_cd>
   </station>
-  <station>>
-    <station_code>>51</station_code>
-    <station_name>천왕</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>49</external_cd>
-  </station>>
   <station>
-    <station_code>>52</station_code>
+    <station_code>51</station_code>
+    <station_name>천왕</station_name>
+    <line_no>호선</line_no>
+    <external_cd>49</external_cd>
+  </station>
+  <station>
+    <station_code>52</station_code>
     <station_name>온수</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>50</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>50</external_cd>
   </station>
   <station>
     <station_code>2811</station_code>
@@ -2494,7 +2494,7 @@
     <station_code>2818</station_code>
     <station_name>가락시장</station_name>
     <line_no>08호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>2819</station_code>
@@ -2502,12 +2502,12 @@
     <line_no>08호선</line_no>
     <external_cd>818</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>2820</station_code>
     <station_name>장지</station_name>
     <line_no>08호선</line_no>
     <external_cd>819</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>2821</station_code>
     <station_name>복정</station_name>
@@ -2560,14 +2560,14 @@
     <station_code>2></station_code>
     <station_name>모란</station_name>
     <line_no>08호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>3110</station_code>
     <station_name>계양</station_name>
     <line_no>인천선</line_no>
     <external_cd>I110</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>3111</station_code>
     <station_name>귤현</station_name>
@@ -2622,12 +2622,12 @@
     <line_no>인천선</line_no>
     <external_cd>I120</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>3121</station_code>
     <station_name>동수</station_name>
     <line_no>인천선</line_no>
     <external_cd>I121</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>3122</station_code>
     <station_name>부평삼거리</station_name>
@@ -2682,12 +2682,12 @@
     <line_no>인천선</line_no>
     <external_cd>I131</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>3132</station_code>
     <station_name>동막</station_name>
     <line_no>인천선</line_no>
     <external_cd>I132</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>3133</station_code>
     <station_name>캠퍼스타운</station_name>
@@ -2742,12 +2742,12 @@
     <line_no>인천2호선</line_no>
     <external_cd>I206</external_cd>
   </station>
-  <station>>
-    <station_code>></station_code>
+  <station>
+    <station_code></station_code>
     <station_name>검암</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I></external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>3208</station_code>
     <station_name>검바위</station_name>
@@ -2802,12 +2802,12 @@
     <line_no>04호선</line_no>
     <external_cd>414</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>426</station_code>
     <station_name>서울역</station_name>
     <line_no>04호선</line_no>
     <external_cd>426</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>3212</station_code>
     <station_name>가정중앙시장</station_name>
@@ -2820,66 +2820,66 @@
     <line_no>인천2호선</line_no>
     <external_cd>I214</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>3215</station_code>
     <station_name>인천가좌</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I215</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>3216</station_code>
     <station_name>가재울</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I216</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>3218</station_code>
     <station_name>주안</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I218</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>3219</station_code>
     <station_name>시민공원</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I219</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>3221</station_code>
     <station_name>인천시청</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I221</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>3222</station_code>
     <station_name>석천사거리</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I222</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>3223</station_code>
     <station_name>모래내시장</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I223</external_cd>
-  </station>>
-  <station>>>
+  </station>
+  <station>>
     <station_code>3224</station_code>
     <station_name>만수</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I224</external_cd>
-  </station>>>
-  <station>>
+  </station>>
+  <station>
     <station_code>3225</station_code>
     <station_name>남동구청</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I225</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>3226</station_code>
     <station_name>인천대공원</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I226</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>32></station_code>
     <station_name>운연</station_name>
@@ -2887,70 +2887,70 @@
     <external_cd>I2></external_cd>
   </station>
   <station>
-    <station_code>>53</station_code>
+    <station_code>53</station_code>
     <station_name>까치울</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>51</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>51</external_cd>
   </station>
   <station>
-    <station_code>>54</station_code>
+    <station_code>54</station_code>
     <station_name>부천종합운동장</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>52</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>52</external_cd>
   </station>
   <station>
-    <station_code>>55</station_code>
+    <station_code>55</station_code>
     <station_name>춘의</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>53</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>53</external_cd>
   </station>
   <station>
-    <station_code>>56</station_code>
+    <station_code>56</station_code>
     <station_name>신중동</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>54</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>54</external_cd>
   </station>
   <station>
-    <station_code>>></station_code>
+    <station_code>></station_code>
     <station_name>부천시청</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>55</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>55</external_cd>
   </station>
   <station>
-    <station_code>>58</station_code>
+    <station_code>58</station_code>
     <station_name>상동</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>56</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>56</external_cd>
   </station>
-  <station>>
-    <station_code>>59</station_code>
+  <station>
+    <station_code>59</station_code>
     <station_name>삼산체육관</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>></external_cd>
-  </station>>
+    <line_no>호선</line_no>
+    <external_cd>></external_cd>
+  </station>
   <station>
-    <station_code>>60</station_code>
+    <station_code>60</station_code>
     <station_name>굴포천</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>58</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>58</external_cd>
   </station>
   <station>
-    <station_code>>61</station_code>
+    <station_code>61</station_code>
     <station_name>부평구청</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>59</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>59</external_cd>
   </station>
   <station>
-    <station_code>>62</station_code>
+    <station_code>62</station_code>
     <station_name>산곡</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>60</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>60</external_cd>
   </station>
   <station>
-    <station_code>>63</station_code>
+    <station_code>63</station_code>
     <station_name>석남</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>61</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>61</external_cd>
   </station>
   <station>
     <station_code>4101</station_code>
@@ -2982,12 +2982,12 @@
     <line_no>09호선</line_no>
     <external_cd>904</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>4105</station_code>
     <station_name>마곡나루</station_name>
     <line_no>09호선</line_no>
     <external_cd>905</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>4106</station_code>
     <station_name>양천향교</station_name>
@@ -3042,12 +3042,12 @@
     <line_no>09호선</line_no>
     <external_cd>916</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>41></station_code>
     <station_name>노량진</station_name>
     <line_no>09호선</line_no>
-    <external_cd>></external_cd>
-  </station>>
+    <external_cd></external_cd>
+  </station>
   <station>
     <station_code>4118</station_code>
     <station_name>노들</station_name>
@@ -3102,12 +3102,12 @@
     <line_no>09호선</line_no>
     <external_cd>926</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>41></station_code>
     <station_name>선정릉</station_name>
     <line_no>09호선</line_no>
-    <external_cd>></external_cd>
-  </station>>
+    <external_cd></external_cd>
+  </station>
   <station>
     <station_code>4128</station_code>
     <station_name>삼성중앙</station_name>
@@ -3130,7 +3130,7 @@
     <station_code>41></station_code>
     <station_name>둔촌오륜</station_name>
     <line_no>09호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>4138</station_code>
@@ -3162,12 +3162,12 @@
     <line_no>공항철도</line_no>
     <external_cd>A>1</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>4211</station_code>
     <station_name>운서</station_name>
     <line_no>공항철도</line_no>
     <external_cd>A08</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>4212</station_code>
     <station_name>공항화물청사</station_name>
@@ -3175,7 +3175,7 @@
     <external_cd>A09</external_cd>
   </station>
   <station>
-    <station_code>></station_code>
+    <station_code></station_code>
     <station_name>강남</station_name>
     <line_no>신분당선</line_no>
     <external_cd>D></external_cd>
@@ -3222,12 +3222,12 @@
     <line_no>02호선</line_no>
     <external_cd>241</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>242</station_code>
     <station_name>아현</station_name>
     <line_no>02호선</line_no>
     <external_cd>242</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>2></station_code>
     <station_name>도림천</station_name>
@@ -3282,12 +3282,12 @@
     <line_no>04호선</line_no>
     <external_cd>419</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>422</station_code>
     <station_name>동대문역사문화공원</station_name>
     <line_no>04호선</line_no>
     <external_cd>422</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>4401</station_code>
     <station_name>샛강</station_name>
@@ -3310,7 +3310,7 @@
     <station_code>4814</station_code>
     <station_name>시우</station_name>
     <line_no>서해선</line_no>
-    <external_cd>>01</external_cd>
+    <external_cd>01</external_cd>
   </station>
   <station>
     <station_code>220</station_code>
@@ -3342,12 +3342,12 @@
     <line_no>02호선</line_no>
     <external_cd>224</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>225</station_code>
     <station_name>방배</station_name>
     <line_no>02호선</line_no>
     <external_cd>225</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>226</station_code>
     <station_name>사당</station_name>
@@ -3402,12 +3402,12 @@
     <line_no>02호선</line_no>
     <external_cd>235</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>236</station_code>
     <station_name>영등포구청</station_name>
     <line_no>02호선</line_no>
     <external_cd>236</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>244</station_code>
     <station_name>용답</station_name>
@@ -3420,66 +3420,66 @@
     <line_no>02호선</line_no>
     <external_cd>211-3</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>203</station_code>
     <station_name>을지로3가</station_name>
     <line_no>02호선</line_no>
     <external_cd>203</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>204</station_code>
     <station_name>을지로4가</station_name>
     <line_no>02호선</line_no>
     <external_cd>204</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>205</station_code>
     <station_name>동대문역사문화공원</station_name>
     <line_no>02호선</line_no>
     <external_cd>205</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>206</station_code>
     <station_name>신당</station_name>
     <line_no>02호선</line_no>
     <external_cd>206</external_cd>
-  </station>>
-  <station>>
-    <station_code>></station_code>
+  </station>
+  <station>
+    <station_code></station_code>
     <station_name>상왕십리</station_name>
     <line_no>02호선</line_no>
-    <external_cd>></external_cd>
-  </station>>
-  <station>>
+    <external_cd></external_cd>
+  </station>
+  <station>
     <station_code>208</station_code>
     <station_name>왕십리</station_name>
     <line_no>02호선</line_no>
     <external_cd>208</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>209</station_code>
     <station_name>한양대</station_name>
     <line_no>02호선</line_no>
     <external_cd>209</external_cd>
-  </station>>
-  <station>>>
+  </station>
+  <station>>
     <station_code>210</station_code>
     <station_name>뚝섬</station_name>
     <line_no>02호선</line_no>
     <external_cd>210</external_cd>
-  </station>>>
-  <station>>
+  </station>>
+  <station>
     <station_code>211</station_code>
     <station_name>성수</station_name>
     <line_no>02호선</line_no>
     <external_cd>211</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>212</station_code>
     <station_name>건대입구</station_name>
     <line_no>02호선</line_no>
     <external_cd>212</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>213</station_code>
     <station_name>구의</station_name>
@@ -3522,12 +3522,12 @@
     <line_no>04호선</line_no>
     <external_cd>423</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1003</station_code>
     <station_name>용산</station_name>
     <line_no>01호선</line_no>
     <external_cd>135</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>413</station_code>
     <station_name>쌍문</station_name>
@@ -3582,12 +3582,12 @@
     <line_no>경의선</line_no>
     <external_cd>K325</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1></station_code>
     <station_name>회기</station_name>
     <line_no>경춘선</line_no>
     <external_cd>P118</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1></station_code>
     <station_name>수색</station_name>
@@ -3642,12 +3642,12 @@
     <line_no>경춘선</line_no>
     <external_cd>P140</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1454</station_code>
     <station_name>정부과천청사</station_name>
     <line_no>04호선</line_no>
     <external_cd>439</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1501</station_code>
     <station_name>판교</station_name>
@@ -3661,53 +3661,53 @@
     <external_cd>K418</external_cd>
   </station>
   <station>
-    <station_code>>10</station_code>
+    <station_code>10</station_code>
     <station_name>의왕</station_name>
     <line_no>01호선</line_no>
     <external_cd>P152</external_cd>
   </station>
   <station>
-    <station_code>>16</station_code>
+    <station_code>16</station_code>
     <station_name>병점</station_name>
     <line_no>01호선</line_no>
     <external_cd>P1></external_cd>
   </station>
   <station>
-    <station_code>>></station_code>
+    <station_code>></station_code>
     <station_name>두정</station_name>
     <line_no>01호선</line_no>
     <external_cd>P168</external_cd>
   </station>
   <station>
-    <station_code>>49</station_code>
+    <station_code>49</station_code>
     <station_name>서동탄</station_name>
     <line_no>01호선</line_no>
     <external_cd>P1>-1</external_cd>
   </station>
   <station>
-    <station_code>>></station_code>
+    <station_code>></station_code>
     <station_name>세마</station_name>
     <line_no>01호선</line_no>
     <external_cd>P158</external_cd>
   </station>
   <station>
-    <station_code>>23</station_code>
+    <station_code>23</station_code>
     <station_name>평택지제</station_name>
     <line_no>01호선</line_no>
     <external_cd>P164</external_cd>
   </station>
   <station>
-    <station_code>>60</station_code>
+    <station_code>60</station_code>
     <station_name>신길온천</station_name>
     <line_no>04호선</line_no>
     <external_cd>454</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>1801</station_code>
     <station_name>개봉</station_name>
     <line_no>01호선</line_no>
     <external_cd>143</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1></station_code>
     <station_name>백운</station_name>
@@ -3739,7 +3739,7 @@
     <external_cd>K2></external_cd>
   </station>
   <station>
-    <station_code>></station_code>
+    <station_code></station_code>
     <station_name>청명</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K239</external_cd>
@@ -3751,23 +3751,23 @@
     <external_cd>K241</external_cd>
   </station>
   <station>
-    <station_code>>2</station_code>
+    <station_code>2</station_code>
     <station_name>매교</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K244</external_cd>
   </station>
   <station>
-    <station_code>>4</station_code>
+    <station_code>4</station_code>
     <station_name>오목천</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K2></external_cd>
   </station>
-  <station>>
-    <station_code>>5</station_code>
+  <station>
+    <station_code>5</station_code>
     <station_name>어천</station_name>
     <line_no>수인분당선</line_no>
     <external_cd>K248</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>1881</station_code>
     <station_name>인천논현</station_name>
@@ -3822,17 +3822,17 @@
     <line_no>05호선</line_no>
     <external_cd>P555</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>2563</station_code>
     <station_name>미사</station_name>
     <line_no>05호선</line_no>
     <external_cd>555</external_cd>
-  </station>>
+  </station>
   <station>
-    <station_code>>13</station_code>
+    <station_code>13</station_code>
     <station_name>수락산</station_name>
-    <line_no>>호선</line_no>
-    <external_cd>>11</external_cd>
+    <line_no>호선</line_no>
+    <external_cd>11</external_cd>
   </station>
   <station>
     <station_code>2812</station_code>
@@ -3882,12 +3882,12 @@
     <line_no>인천2호선</line_no>
     <external_cd>I205</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>3210</station_code>
     <station_name>서구청</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I210</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>3213</station_code>
     <station_name>석남</station_name>
@@ -3895,7 +3895,7 @@
     <external_cd>I213</external_cd>
   </station>
   <station>
-    <station_code>></station_code>
+    <station_code></station_code>
     <station_name>주안국가산단</station_name>
     <line_no>인천2호선</line_no>
     <external_cd>I></external_cd>
@@ -3907,10 +3907,10 @@
     <external_cd>I220</external_cd>
   </station>
   <station>
-    <station_code>></station_code>
+    <station_code></station_code>
     <station_name>가양</station_name>
     <line_no>09호선</line_no>
-    <external_cd>></external_cd>
+    <external_cd></external_cd>
   </station>
   <station>
     <station_code>4109</station_code>
@@ -3942,12 +3942,12 @@
     <line_no>09호선</line_no>
     <external_cd>931</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>4132</station_code>
     <station_name>석촌고분</station_name>
     <line_no>09호선</line_no>
     <external_cd>932</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>4133</station_code>
     <station_name>석촌</station_name>
@@ -3979,7 +3979,7 @@
     <external_cd>A042</external_cd>
   </station>
   <station>
-    <station_code>></station_code>
+    <station_code></station_code>
     <station_name>김포공항</station_name>
     <line_no>공항철도</line_no>
     <external_cd>A05</external_cd>
@@ -4002,12 +4002,12 @@
     <line_no>공항철도</line_no>
     <external_cd>A11</external_cd>
   </station>
-  <station>>
-    <station_code>></station_code>
+  <station>
+    <station_code></station_code>
     <station_name>영종</station_name>
     <line_no>공항철도</line_no>
     <external_cd>A>2</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>4304</station_code>
     <station_name>신사</station_name>
@@ -4020,66 +4020,66 @@
     <line_no>신분당선</line_no>
     <external_cd>D5</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>4306</station_code>
     <station_name>신논현</station_name>
     <line_no>신분당선</line_no>
     <external_cd>D6</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4404</station_code>
     <station_name>보라매</station_name>
     <line_no>신림선</line_no>
     <external_cd></external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4></station_code>
     <station_name>당곡</station_name>
     <line_no>신림선</line_no>
     <external_cd></external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4408</station_code>
     <station_name>신림</station_name>
     <line_no>신림선</line_no>
     <external_cd></external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4810</station_code>
     <station_name>시흥능곡</station_name>
     <line_no>서해선</line_no>
-    <external_cd>></external_cd>
-  </station>>
-  <station>>
+    <external_cd></external_cd>
+  </station>
+  <station>
     <station_code>4812</station_code>
     <station_name>선부</station_name>
     <line_no>서해선</line_no>
     <external_cd>849</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4813</station_code>
     <station_name>초지</station_name>
     <line_no>서해선</line_no>
     <external_cd>850</external_cd>
-  </station>>
-  <station>>>
+  </station>
+  <station>>
     <station_code>4309</station_code>
     <station_name>양재시민의숲</station_name>
     <line_no>신분당선</line_no>
     <external_cd>D9</external_cd>
-  </station>>>
-  <station>>
+  </station>>
+  <station>
     <station_code>4310</station_code>
     <station_name>청계산입구</station_name>
     <line_no>신분당선</line_no>
     <external_cd>D10</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4311</station_code>
     <station_name>판교</station_name>
     <line_no>신분당선</line_no>
     <external_cd>D11</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>4312</station_code>
     <station_name>정자</station_name>
@@ -4111,7 +4111,7 @@
     <external_cd>D16</external_cd>
   </station>
   <station>
-    <station_code>></station_code>
+    <station_code></station_code>
     <station_name>상현</station_name>
     <line_no>신분당선</line_no>
     <external_cd>D></external_cd>
@@ -4122,12 +4122,12 @@
     <line_no>신분당선</line_no>
     <external_cd>D18</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>4319</station_code>
     <station_name>광교</station_name>
     <line_no>신분당선</line_no>
     <external_cd>D19</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>4409</station_code>
     <station_name>서원</station_name>
@@ -4182,12 +4182,12 @@
     <line_no>용인경전철</line_no>
     <external_cd>Y115</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>4508</station_code>
     <station_name>삼가</station_name>
     <line_no>용인경전철</line_no>
     <external_cd>Y116</external_cd>
-  </station>>
+  </station>
   <station>
     <station_code>4509</station_code>
     <station_name>시청.용인대</station_name>
@@ -4200,72 +4200,72 @@
     <line_no>서해선</line_no>
     <external_cd>845</external_cd>
   </station>
-  <station>>
+  <station>
     <station_code>4809</station_code>
     <station_name>시흥시청</station_name>
     <line_no>서해선</line_no>
     <external_cd>846</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4815</station_code>
     <station_name>원시</station_name>
     <line_no>서해선</line_no>
-    <external_cd>>02</external_cd>
-  </station>>
-  <station>>
+    <external_cd>02</external_cd>
+  </station>
+  <station>
     <station_code>4920</station_code>
     <station_name>양촌</station_name>
     <line_no>김포도시철도</line_no>
     <external_cd>690</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4921</station_code>
     <station_name>구래</station_name>
     <line_no>김포도시철도</line_no>
     <external_cd>691</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4922</station_code>
     <station_name>마산</station_name>
     <line_no>김포도시철도</line_no>
     <external_cd>692</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4923</station_code>
     <station_name>장기</station_name>
     <line_no>김포도시철도</line_no>
     <external_cd>693</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4924</station_code>
     <station_name>운양</station_name>
     <line_no>김포도시철도</line_no>
     <external_cd>694</external_cd>
-  </station>>
-  <station>>>
+  </station>
+  <station>>
     <station_code>4925</station_code>
     <station_name>걸포북변</station_name>
     <line_no>김포도시철도</line_no>
     <external_cd>695</external_cd>
-  </station>>>
-  <station>>
+  </station>>
+  <station>
     <station_code>4926</station_code>
     <station_name>사우</station_name>
     <line_no>김포도시철도</line_no>
     <external_cd>696</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4></station_code>
     <station_name>풍무</station_name>
     <line_no>김포도시철도</line_no>
-    <external_cd>></external_cd>
-  </station>>
-  <station>>
+    <external_cd></external_cd>
+  </station>
+  <station>
     <station_code>4928</station_code>
     <station_name>고촌</station_name>
     <line_no>김포도시철도</line_no>
     <external_cd>698</external_cd>
-  </station>>
+  </station>
   <station>1>
     <station_code>4929</station_code>
     <station_name>김포공항</station_name>
@@ -4290,48 +4290,48 @@
     <line_no>용인경전철</line_no>
     <external_cd>Y120</external_cd>
   </station>1>
-  <station>>
+  <station>
     <station_code>4513</station_code>
     <station_name>고진</station_name>
     <line_no>용인경전철</line_no>
     <external_cd>Y121</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4514</station_code>
     <station_name>보평</station_name>
     <line_no>용인경전철</line_no>
     <external_cd>Y123</external_cd>
-  </station>>
-  <station>>>
+  </station>
+  <station>>
     <station_code>4515</station_code>
     <station_name>둔전</station_name>
     <line_no>용인경전철</line_no>
     <external_cd>Y125</external_cd>
-  </station>>>
-  <station>>
+  </station>>
+  <station>
     <station_code>4></station_code>
     <station_name>전대.에버랜드</station_name>
     <line_no>용인경전철</line_no>
     <external_cd>Y126</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4601</station_code>
     <station_name>발곡</station_name>
     <line_no>의정부경전철</line_no>
     <external_cd>U110</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4602</station_code>
     <station_name>회룡</station_name>
     <line_no>의정부경전철</line_no>
     <external_cd>U111</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4603</station_code>
     <station_name>범골</station_name>
     <line_no>의정부경전철</line_no>
     <external_cd>U112</external_cd>
-  </station>>
+  </station>
   <station>2>
     <station_code>4604</station_code>
     <station_name>경전철의정부</station_name>
@@ -4350,54 +4350,54 @@
     <line_no>의정부경전철</line_no>
     <external_cd>U115</external_cd>
   </station>2>
-  <station>>
+  <station>
     <station_code>4></station_code>
     <station_name>의정부중앙</station_name>
     <line_no>의정부경전철</line_no>
     <external_cd>U1></external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4608</station_code>
     <station_name>동오</station_name>
     <line_no>의정부경전철</line_no>
     <external_cd>U118</external_cd>
-  </station>>
-  <station>>>
+  </station>
+  <station>>
     <station_code>4609</station_code>
     <station_name>새말</station_name>
     <line_no>의정부경전철</line_no>
     <external_cd>U119</external_cd>
-  </station>>>
-  <station>>
+  </station>>
+  <station>
     <station_code>4610</station_code>
     <station_name>경기도청북부청사</station_name>
     <line_no>의정부경전철</line_no>
     <external_cd>U120</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4611</station_code>
     <station_name>효자</station_name>
     <line_no>의정부경전철</line_no>
     <external_cd>U121</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4612</station_code>
     <station_name>곤제</station_name>
     <line_no>의정부경전철</line_no>
     <external_cd>U122</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4804</station_code>
     <station_name>소사</station_name>
     <line_no>서해선</line_no>
     <external_cd>841</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4613</station_code>
     <station_name>어룡</station_name>
     <line_no>의정부경전철</line_no>
     <external_cd>U123</external_cd>
-  </station>>
+  </station>
   <station>3>
     <station_code>4614</station_code>
     <station_name>송산</station_name>
@@ -4410,196 +4410,196 @@
     <line_no>의정부경전철</line_no>
     <external_cd>U125</external_cd>
   </station>3>
-  <station>>
-    <station_code>>01</station_code>
+  <station>
+    <station_code>01</station_code>
     <station_name>북한산우이</station_name>
     <line_no>우이신설경전철</line_no>
     <external_cd>941</external_cd>
-  </station>>
-  <station>>
-    <station_code>>02</station_code>
+  </station>
+  <station>
+    <station_code>02</station_code>
     <station_name>솔밭공원</station_name>
     <line_no>우이신설경전철</line_no>
     <external_cd>942</external_cd>
-  </station>>
-  <station>>>
-    <station_code>>03</station_code>
+  </station>
+  <station>>
+    <station_code>03</station_code>
     <station_name>4?19민주묘지</station_name>
     <line_no>우이신설경전철</line_no>
     <external_cd>943</external_cd>
-  </station>>>
-  <station>>
-    <station_code>>04</station_code>
+  </station>>
+  <station>
+    <station_code>04</station_code>
     <station_name>가오리</station_name>
     <line_no>우이신설경전철</line_no>
     <external_cd>944</external_cd>
-  </station>>
-  <station>>
-    <station_code>>05</station_code>
+  </station>
+  <station>
+    <station_code>05</station_code>
     <station_name>화계</station_name>
     <line_no>우이신설경전철</line_no>
     <external_cd>945</external_cd>
-  </station>>
-  <station>>
-    <station_code>>06</station_code>
+  </station>
+  <station>
+    <station_code>06</station_code>
     <station_name>삼양</station_name>
     <line_no>우이신설경전철</line_no>
     <external_cd>946</external_cd>
-  </station>>
-  <station>>
-    <station_code>>></station_code>
+  </station>
+  <station>
+    <station_code>></station_code>
     <station_name>삼양사거리</station_name>
     <line_no>우이신설경전철</line_no>
-    <external_cd>></external_cd>
-  </station>>
-  <station>>
-    <station_code>>08</station_code>
+    <external_cd></external_cd>
+  </station>
+  <station>
+    <station_code>08</station_code>
     <station_name>솔샘</station_name>
     <line_no>우이신설경전철</line_no>
     <external_cd>948</external_cd>
-  </station>>
-  <station>>
-    <station_code>>09</station_code>
+  </station>
+  <station>
+    <station_code>09</station_code>
     <station_name>북한산보국문</station_name>
     <line_no>우이신설경전철</line_no>
     <external_cd>949</external_cd>
-  </station>>
+  </station>
   <station>4>
-    <station_code>>10</station_code>
+    <station_code>10</station_code>
     <station_name>정릉</station_name>
     <line_no>우이신설경전철</line_no>
     <external_cd>950</external_cd>
   </station>4>
-  <station>>
-    <station_code>>11</station_code>
+  <station>
+    <station_code>11</station_code>
     <station_name>성신여대입구</station_name>
     <line_no>우이신설경전철</line_no>
     <external_cd>951</external_cd>
-  </station>>
-  <station>>
-    <station_code>>12</station_code>
+  </station>
+  <station>
+    <station_code>12</station_code>
     <station_name>보문</station_name>
     <line_no>우이신설경전철</line_no>
     <external_cd>952</external_cd>
-  </station>>
-  <station>>>
-    <station_code>>13</station_code>
+  </station>
+  <station>>
+    <station_code>13</station_code>
     <station_name>신설동</station_name>
     <line_no>우이신설경전철</line_no>
     <external_cd>953</external_cd>
-  </station>>>
-  <station>>
+  </station>>
+  <station>
     <station_code>4805</station_code>
     <station_name>소새울</station_name>
     <line_no>서해선</line_no>
     <external_cd>842</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4806</station_code>
     <station_name>시흥대야</station_name>
     <line_no>서해선</line_no>
     <external_cd>843</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>4></station_code>
     <station_name>신천</station_name>
     <line_no>서해선</line_no>
     <external_cd>844</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1>1</station_code>
     <station_name>능곡</station_name>
     <line_no>경의선</line_no>
     <external_cd>K321</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1326</station_code>
     <station_name>강촌</station_name>
     <line_no>경춘선</line_no>
     <external_cd>P1></external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>150</station_code>
     <station_name>서울역</station_name>
     <line_no>01호선</line_no>
     <external_cd>133</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>151</station_code>
     <station_name>시청</station_name>
     <line_no>01호선</line_no>
     <external_cd>132</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>152</station_code>
     <station_name>종각</station_name>
     <line_no>01호선</line_no>
     <external_cd>131</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>153</station_code>
     <station_name>종로3가</station_name>
     <line_no>01호선</line_no>
     <external_cd>130</external_cd>
-  </station>>
-  <station>>>
+  </station>
+  <station>>
     <station_code>154</station_code>
     <station_name>종로5가</station_name>
     <line_no>01호선</line_no>
     <external_cd>129</external_cd>
-  </station>>>
-  <station>>
+  </station>>
+  <station>
     <station_code>155</station_code>
     <station_name>동대문</station_name>
     <line_no>01호선</line_no>
     <external_cd>128</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>156</station_code>
     <station_name>신설동</station_name>
     <line_no>01호선</line_no>
     <external_cd>126</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>1></station_code>
     <station_name>제기동</station_name>
     <line_no>01호선</line_no>
     <external_cd>125</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>158</station_code>
     <station_name>청량리</station_name>
     <line_no>01호선</line_no>
     <external_cd>124</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>159</station_code>
     <station_name>동묘앞</station_name>
     <line_no>01호선</line_no>
     <external_cd>1></external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>200</station_code>
     <station_name>까치산</station_name>
     <line_no>02호선</line_no>
     <external_cd>234-4</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>201</station_code>
     <station_name>시청</station_name>
     <line_no>02호선</line_no>
     <external_cd>201</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>202</station_code>
     <station_name>을지로입구</station_name>
     <line_no>02호선</line_no>
     <external_cd>202</external_cd>
-  </station>>
-  <station>>
+  </station>
+  <station>
     <station_code>300</station_code>
     <station_name>대곡</station_name>
     <line_no>경의선</line_no>
     <external_cd>K322</external_cd>
-  </station>>
-</root>
+  </station>
+</stations>
