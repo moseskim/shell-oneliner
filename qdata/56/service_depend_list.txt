@@ -1,5 +1,5 @@
-애플리케이션 A: 접근 분석 API, 교통 정보 API, 인사 정보 API
-애플리케이션 B: 주문 접수 API, 교통 정보 API, 고객 정보 API
-애플리케이션 C: 주문 접수 API, 메일 API, 주소 정보 API
-애플리케이션 D: 인사 정보 API, 메일 API
-애플리케이션 E: 주문 접수 API, 교통 정보 API, 고객 정보 API
+애플리케이션A: 접근 분석 API, 교통 정보 API, 인사 정보 API
+애플리케이션B: 주문 접수 API, 교통 정보 API, 고객 정보 API
+애플리케이션C: 주문 접수 API, 메일 API, 주소 정보 API
+애플리케이션D: 인사 정보 API, 메일 API
+애플리케이션E: 주문 접수 API, 교통 정보 API, 고객 정보 API
