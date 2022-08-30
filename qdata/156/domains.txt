@@ -1,4 +1,4 @@
-jpub.tistory.com
+naver.com
 github.com
 gitlab.com
 wikipedia.org
