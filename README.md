@@ -24,31 +24,9 @@ $ git clone https://github.com/moseskim/shell-oneliner.git
 * 전자 서적 버전의 일부에서 슬래시 누락을 발견했습니다. 대응하고 있습니다. (20211004）
     * 대응 완료.（20211007） 
 
-## 정정
-
-### 2쇄 (일본어)까지
-
-|페이지|위치|수정전|수정후|발견자/상황|코멘트(주로 우에다)|
-|-----|--------------------|-------------|----------------|----------|----------|
-|p.105  |問題文4行目|このシェルの挙動もシグナルに関係しています。|これと同じような挙動はシグナルでも実現できます。| [issue6](https://github.com/shellgei/shellgei160/issues/6)|たぶん私が筆を入れたときに埋め込み -> みんなスルーという状況で発生したような気が・・・|
-|p.106 |本文の3行目|Ctrl＋Qで発行されるシグナル|Ctrl＋Qと同じ働きをするシグナル|同上|同上|
-|p.127 |問題文のコードの10行目|`\N`|`\d`|[issue8](https://github.com/shellgei/shellgei160/issues/8)|あれ・・・なんでだろう・・・|
-|p.129 |1番目のコードボックスと本文1行目|`\N`|`\d`|同上|同上|
-|p.130 |練習問題の問題文のコードの7行目|東から始まり|東京から始まり|[issue9](https://github.com/shellgei/shellgei160/issues/9)|不注意でした。|
-|p.140 |脚注16のURL|https://docs.ruby-lang.org/ja/latest/docspec=2fregexp.html|https://docs.ruby-lang.org/ja/latest/doc/spec=2fregexp.html|[issue10](https://github.com/shellgei/shellgei160/issues/10)|すみません!|
-|p.247 |リスト5.3 3行目|2020年1月1日|2020年8月1日|[issue23](https://github.com/shellgei/shellgei160/issues/23)|不注意でした。|
-|p.248 |解答例のコードの1行目|`,$0`|削除|[issue23](https://github.com/shellgei/shellgei160/issues/23)|間違いですが残っていても動くのでスルーされたようです。|
-|p.266| 2番目のコードブロック | `$ split -b 1000 -d image.bmp image.bmp.` | `$ split -b 1000 image.bmp image.bmp.` | [issue27](https://github.com/shellgei/shellgei160/issues/27) | `-d`を使った没案の一部消し忘れのようです。 |
-|p.266| 2番目のコードブロックの直後の1行 | その番号から数字が開始するようになります。 | その引数の番号から数字が開始するようになります。 | [issue27](https://github.com/shellgei/shellgei160/issues/27) | 同上 |
-
-## mac에서의 동작에 관한 정보
+## mac에서의 동작에 관하여
 
 * https://github.com/shellgei/shellgei160/issues?q=is%3Aissue+label%3Amac+ (일본어)
-
-## issueに寄せられたコメント
-
-* [正規表現の`{,n}`という指定について](https://github.com/shellgei/shellgei160/issues/7)
-* [UTF-32BEについて](https://github.com/shellgei/shellgei160/issues/28)
 
 ## 참고 사이트
 
