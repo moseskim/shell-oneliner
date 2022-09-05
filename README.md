@@ -11,7 +11,7 @@ $ git clone https://github.com/moseskim/shell-oneliner.git
 ## 이 저장소의 역할
 
 * 문제에서 이용하는 데이터 제공
-* 문의 접수([issue](https://github.com/moseskim/shell-oneliner/issues)
+* 문의 접수([issue](https://github.com/moseskim/shell-oneliner/issues))
 * 정정 내용 게제
 * 해답 및 다른 풀이의 텍스트 데이터 제공(`answer` 디렉터리 참조)
     * 다양한 다른 풀이의 풀 리퀘스트는 대환영입니다([예](https://github.com/shellgei/shellgei160/pull/34)）
