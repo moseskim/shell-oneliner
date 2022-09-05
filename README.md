@@ -6,17 +6,17 @@
 $ git clone https://github.com/moseskim/shell-oneliner.git
 ```
 
-로 다운로드 할 수 있습니다(가능하다면 fork를 하시기 바랍.
+가능하다면 fork를 하는 것을 권장합니다.
 
 ## 이 저장소의 역할
 
-* 문제에서 이용하는 데이터 제공
-* 문의 접수([issue](https://github.com/moseskim/shell-oneliner/issues))
-* 정정 내용 게제
-* 해답 및 다른 풀이의 텍스트 데이터 제공(`answer` 디렉터리 참조)
-    * 다양한 다른 풀이의 풀 리퀘스트는 대환영입니다([예](https://github.com/shellgei/shellgei160/pull/34)）
+- 문제에서 이용하는 데이터 제공
+- 문의 접수([issue](https://github.com/moseskim/shell-oneliner/issues))
+- 정정 내용 게제
+- 해답 및 다른 풀이의 텍스트 데이터 제공(`answer` 디렉터리 참조)
+  - 다양한 다른 풀이의 풀 리퀘스트는 대환영입니다([예](https://github.com/shellgei/shellgei160/pull/34)）
 
-기타 쉘 예능의 일반적인 정보는 [쉘 예능 정보 관련 사이트(일본어)](https://shellgei.github.io/info/)를 참조합니다.
+기타 쉘 예능의 일반적인 정보는 [쉘 예능 정보 관련 사이트(일본어)](https://github.com/moseskim/shell-oneliner/wiki/%EC%89%98-%EC%98%88%EB%8A%A5-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%B3%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C)를 참조합니다.
 
 ## 알림
 
@@ -41,7 +41,6 @@ $ git clone https://github.com/moseskim/shell-oneliner.git
 |p.266| 2番目のコードブロック | `$ split -b 1000 -d image.bmp image.bmp.` | `$ split -b 1000 image.bmp image.bmp.` | [issue27](https://github.com/shellgei/shellgei160/issues/27) | `-d`を使った没案の一部消し忘れのようです。 |
 |p.266| 2番目のコードブロックの直後の1行 | その番号から数字が開始するようになります。 | その引数の番号から数字が開始するようになります。 | [issue27](https://github.com/shellgei/shellgei160/issues/27) | 同上 |
 
-
 ## mac에서의 동작에 관한 정보
 
 * https://github.com/shellgei/shellgei160/issues?q=is%3Aissue+label%3Amac+ (일본어)
@@ -51,15 +50,9 @@ $ git clone https://github.com/moseskim/shell-oneliner.git
 * [正規表現の`{,n}`という指定について](https://github.com/shellgei/shellgei160/issues/7)
 * [UTF-32BEについて](https://github.com/shellgei/shellgei160/issues/28)
 
+## 참고 사이트
 
-## 参考サイト
+- 역서 정보 페이지(제이펍): TBD
+- 원서 정보 페이지(기술평론사): https://gihyo.jp/book/2021/978-4-297-12267-6
+- 쉘 예능 정보 종합 사이트: https://shellgei.github.io/info/
 
-* 技術評論社の本書籍のページ: https://gihyo.jp/book/2021/978-4-297-12267-6
-* シェル芸の情報を集めるサイト: https://shellgei.github.io/info/
-* [たいちょー](https://twitter.com/xztaityozx_001)さんのブログ: https://xztaityozx.hatenablog.com/archive/category/shellgei160
-    * 解答例があります。
-
-## 連絡先
-
-* [@ryuichiueda](https://twitter.com/ryuichiueda)（ひねりのない直球の愚痴・文句、外野からの意見の多い方を目にすると仕事の集中力が落ちるので、全く恨みはないんですけど機械的にブロックしている可能性があります。）
-* 他の著者のTwitterアカウント
