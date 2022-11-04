@@ -1,6 +1,6 @@
-# 쉘 원라이너 160문제 샘플 저장소
+# 셸 원라이너 160문제 샘플 저장소
 
-이 책은 제이펍에서 출간한 '[쉘 원라이너 160문제]()'의 샘플 저장소입니다.
+이 책은 제이펍에서 출간한 '[셸 원라이너 160문제]()'의 샘플 저장소입니다.
 
 ```
 $ git clone https://github.com/moseskim/shell-oneliner.git
@@ -16,7 +16,7 @@ $ git clone https://github.com/moseskim/shell-oneliner.git
 - 해답 및 다른 풀이의 텍스트 데이터 제공(`answer` 디렉터리 참조)
   - 다양한 다른 풀이의 풀 리퀘스트는 대환영입니다([예](https://github.com/shellgei/shellgei160/pull/34)）
 
-기타 쉘 예능의 일반적인 정보는 [쉘 예능 정보 관련 사이트(일본어)](https://github.com/moseskim/shell-oneliner/wiki/%EC%89%98-%EC%98%88%EB%8A%A5-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%B3%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C)를 참조합니다.
+기타 셸 예능의 일반적인 정보는 [셸 예능 정보 관련 사이트(일본어)](https://github.com/moseskim/shell-oneliner/wiki/%EC%89%98-%EC%98%88%EB%8A%A5-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%B3%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C)를 참조합니다.
 
 ## 알림
 
@@ -32,5 +32,5 @@ $ git clone https://github.com/moseskim/shell-oneliner.git
 
 - 역서 정보 페이지(제이펍): TBD
 - 원서 정보 페이지(기술평론사): https://gihyo.jp/book/2021/978-4-297-12267-6
-- 쉘 예능 정보 종합 사이트: https://shellgei.github.io/info/
+- 셸 예능 정보 종합 사이트: https://shellgei.github.io/info/
 
