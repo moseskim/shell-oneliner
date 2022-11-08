@@ -1,6 +1,6 @@
-# 셸 원라이너 160문제 샘플 저장소
+# 아트 오브 셸 원라이너 160제
 
-이 책은 제이펍에서 출간한 '[셸 원라이너 160문제]()'의 샘플 저장소입니다.
+이 책은 제이펍에서 출간한 '아트 오브 셸 원라이너 160제]()'의 샘플 저장소입니다.
 
 ```
 $ git clone https://github.com/moseskim/shell-oneliner.git
@@ -16,13 +16,7 @@ $ git clone https://github.com/moseskim/shell-oneliner.git
 - 해답 및 다른 풀이의 텍스트 데이터 제공(`answer` 디렉터리 참조)
   - 다양한 다른 풀이의 풀 리퀘스트는 대환영입니다([예](https://github.com/shellgei/shellgei160/pull/34)）
 
-기타 셸 예능의 일반적인 정보는 [셸 예능 정보 관련 사이트(일본어)](https://github.com/moseskim/shell-oneliner/wiki/%EC%89%98-%EC%98%88%EB%8A%A5-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%B3%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C)를 참조합니다.
-
-## 알림
-
-* [문제 23에 오타가 있었습니다](https://github.com/shellgei/shellgei160/issues/6). 정정해서 업로드했습니다. (20211004）
-* 전자 서적 버전의 일부에서 슬래시 누락을 발견했습니다. 대응하고 있습니다. (20211004）
-    * 대응 완료.（20211007） 
+기타 셸 예능에 관한 일반적인 정보는 [셸 예능 정보 관련 사이트(일본어)](https://github.com/moseskim/shell-oneliner/wiki/%EC%89%98-%EC%98%88%EB%8A%A5-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%B3%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C)를 참조합니다.
 
 ## mac에서의 동작에 관하여
 
