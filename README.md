@@ -28,3 +28,6 @@ $ git clone https://github.com/moseskim/shell-oneliner.git
 - 원서 정보 페이지(기술평론사): https://gihyo.jp/book/2021/978-4-297-12267-6
 - 셸 예능 정보 종합 사이트: https://shellgei.github.io/info/
 
+## 코드 클론/다운로드 시 주의 사항
+
+이 저장소에서 제공하는 대부분의 파일들에서는 줄바꿈 문자로 `LF`를 사용하고 있습니다. 윈도우 환경(WSL 등)에서 `git clone` 등의 명령어를 통해 코드를 클론하면 `LF`가 `CR+LF`로 바뀌어 문제 풀이 시 잘못된 결과가 나올 수 있습니다. 저장소의 `<> Code` > `Download ZIP` 버튼을 클릭해 압축 파일로 다운로드하면 이를 방지할 수 있습니다.
